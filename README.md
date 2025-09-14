@@ -35,7 +35,8 @@ This project provides a simple **GUI-based solution** for administrators to hand
 
 ---
 
-## for detailed report view project reirt in my drive [project report foldeer]([URL](https://drive.google.com/drive/folders/1ZJ0fGuann0Lf802D_BneJPyESofYBxGo?usp=sharing))
+## for detailed report view project report in my drive [project report foldeer([URL(https://drive.google.com/drive/folders/1ZJ0fGuann0Lf802D_BneJPyESofYBxGo?usp=sharing))
+
 
 
 
