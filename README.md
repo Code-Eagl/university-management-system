@@ -35,7 +35,9 @@ This project provides a simple **GUI-based solution** for administrators to hand
 
 ---
 
-## 📂 Project Structure
+##for detailed report view project reirt in my drive [project report foldeer]([URL](https://drive.google.com/drive/folders/1ZJ0fGuann0Lf802D_BneJPyESofYBxGo?usp=sharing))
+
+
 
 
 
